@@ -1,0 +1,53 @@
+{
+    "parameterSets": {
+        "Small tree": {
+            "$baseRadius": "3",
+            "$bottomBranchRadius": "10",
+            "$branchSkip": "2",
+            "$branchVariance": "0.15",
+            "$fa": "8",
+            "$firstLayer": "0.2",
+            "$fs": "0.01",
+            "$height": "25",
+            "$layerHeight": "0.3",
+            "$osAngle": "0",
+            "$perimeterWidth": "0.6",
+            "$tipHeight": "1",
+            "$topBranchRadius": "2",
+            "$trunkHeightWished": "0"
+        },
+        "large tree": {
+            "$baseRadius": "7",
+            "$bottomBranchRadius": "50",
+            "$branchSkip": "2",
+            "$branchVariance": "0.15",
+            "$fa": "8",
+            "$firstLayer": "0.2",
+            "$fs": "0.01",
+            "$height": "125",
+            "$layerHeight": "0.3",
+            "$osAngle": "0",
+            "$perimeterWidth": "0.6",
+            "$tipHeight": "1",
+            "$topBranchRadius": "2",
+            "$trunkHeightWished": "0"
+        },
+        "medium tree": {
+            "$baseRadius": "5",
+            "$bottomBranchRadius": "30",
+            "$branchSkip": "2",
+            "$branchVariance": "0.15",
+            "$fa": "8",
+            "$firstLayer": "0.2",
+            "$fs": "0.01",
+            "$height": "75",
+            "$layerHeight": "0.3",
+            "$osAngle": "0",
+            "$perimeterWidth": "0.6",
+            "$tipHeight": "2",
+            "$topBranchRadius": "2",
+            "$trunkHeightWished": "0"
+        }
+    },
+    "fileFormatVersion": "1"
+}
